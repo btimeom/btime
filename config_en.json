@@ -2,268 +2,945 @@
   "HorizonLayout": [
     {
       "layout": "logo",
-      "showMenu": true,
-      "showSearch": true,
       "showLogo": true,
-      "enableBackground": true
+      "showMenu": true,
+      "showSearch": true
     },
     {
-      "layout": "category",
+      "size": 1.1,
       "type": "icon",
-      "useFor": "mobile",
       "wrap": false,
-      "size": 1.0,
-      "radius": 50.0,
-      "enableBackground": true,
       "items": [
         {
+          "tag": null,
+          "name": null,
+          "image": "https://cdn.shopify.com/s/files/1/0619/3915/5027/files/skin_care.png",
+          "order": null,
+          "title": "Skin",
+          "colors": null,
+          "onSale": false,
+          "orderby": null,
           "category": "gid://shopify/Collection/286628937811",
-          "image": "https://user-images.githubusercontent.com/1459805/62820029-2e679f00-bb88-11e9-80de-fdf115cfd942.png",
-          "colors": [
-            "#3CC2BF",
-            "#3CC2BF"
-          ],
-          "originalColor": false
+          "featured": false,
+          "showText": null,
+          "description": null,
+          "productType": false,
+          "originalColor": false,
+          "backgroundColor": "fff9e8db",
+          "showDescription": true,
+          "keepDefaultTitle": true,
+          "productListAnimationConfig": null
         },
         {
-          "category": "gid://shopify/Collection/446745641265",
-          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/48x58/a68d188ae063a20eac903fe2ca00ece5/ic_dress.png",
-          "colors": [
-            "#3E6AB5",
-            "#3E6AB5"
-          ]
+          "tag": null,
+          "name": null,
+          "image": "https://cdn.shopify.com/s/files/1/0619/3915/5027/files/hair-care_0f104f12-aa58-48dd-ab5a-4df0df9a5ba7.png",
+          "order": null,
+          "title": "Hair",
+          "colors": null,
+          "onSale": false,
+          "orderby": null,
+          "category": "gid://shopify/Collection/286629036115",
+          "featured": false,
+          "showText": null,
+          "description": null,
+          "productType": false,
+          "originalColor": false,
+          "backgroundColor": "fff9e8db",
+          "showDescription": true,
+          "keepDefaultTitle": true,
+          "productListAnimationConfig": null
         },
         {
-          "category": "gid://shopify/Collection/446745674033",
-          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x54/93b296bf55ec19d22778158bf06d2dbc/ic_shorts.png",
-          "colors": [
-            "#53A2CC",
-            "#53A2CC"
-          ]
+          "tag": null,
+          "name": null,
+          "image": "https://cdn.shopify.com/s/files/1/0619/3915/5027/files/33_f04d475f-3948-4d32-9d73-6bd465afc6c2.png",
+          "order": null,
+          "title": " Body",
+          "colors": null,
+          "onSale": false,
+          "orderby": null,
+          "category": "gid://shopify/Collection/286629068883",
+          "featured": false,
+          "showText": null,
+          "description": null,
+          "productType": false,
+          "originalColor": false,
+          "backgroundColor": "fff9e8db",
+          "showDescription": true,
+          "keepDefaultTitle": true,
+          "productListAnimationConfig": null
         },
         {
-          "category": "gid://shopify/Collection/446745936177",
-          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x50/bf817e570f9d704dc88dad8bb29386d1/ic_shoes.png",
-          "colors": [
-            "#53688A",
-            "#53688A"
-          ]
+          "tag": null,
+          "name": null,
+          "image": "https://cdn.shopify.com/s/files/1/0619/3915/5027/files/korean_beauty_icon_final_purple-min.png",
+          "order": null,
+          "title": " Korean",
+          "colors": null,
+          "onSale": false,
+          "orderby": null,
+          "category": "gid://shopify/Collection/293196398675",
+          "featured": false,
+          "showText": null,
+          "description": null,
+          "productType": false,
+          "originalColor": false,
+          "backgroundColor": "fff9e8db",
+          "showDescription": true,
+          "keepDefaultTitle": true,
+          "productListAnimationConfig": null
         },
         {
-          "category": "gid://shopify/Collection/446745739569",
-          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/72x38/8c778c1b92f5ca02e00c4a34b562c601/ic_tie.png",
-          "colors": [
-            "#43506A",
-            "#43506A"
-          ]
+          "tag": null,
+          "name": null,
+          "image": "https://cdn.shopify.com/s/files/1/0619/3915/5027/files/health_991e9c95-3c69-4395-9a13-4bcf675edaa5.png",
+          "order": null,
+          "title": "Health",
+          "colors": null,
+          "onSale": false,
+          "orderby": null,
+          "category": "gid://shopify/Collection/286633656403",
+          "featured": false,
+          "showText": null,
+          "description": null,
+          "productType": false,
+          "originalColor": false,
+          "backgroundColor": "fff9e8db",
+          "showDescription": true,
+          "keepDefaultTitle": true,
+          "productListAnimationConfig": null
         },
         {
-          "category": "gid://shopify/Collection/446745641265",
-          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x34/e20dbfd9e05fb3fbb8991d5d2213a9b0/ic_panties.png",
-          "colors": [
-            "#12B58C",
-            "#12B58C"
-          ]
-        }
-      ]
-    },
-    {
-      "layout": "bannerImage",
-      "isSlider": true,
-      "autoPlay": false,
-      "showNumber": false,
-      "design": "default",
-      "showBackGround": true,
-      "radius": 2.0,
-      "enableBackground": true,
-      "items": [
-        {
-          "category": "gid://shopify/Collection/446745674033",
-          "image": "https://user-images.githubusercontent.com/1459805/59846818-12672e80-938b-11e9-8184-5f7bfe66f1a2.png",
-          "padding": 15.0
+          "tag": null,
+          "name": null,
+          "image": "https://cdn.shopify.com/s/files/1/0619/3915/5027/files/hair-dryer.png",
+          "order": null,
+          "title": null,
+          "colors": null,
+          "onSale": false,
+          "orderby": null,
+          "category": "gid://shopify/Collection/286628872275",
+          "featured": false,
+          "showText": null,
+          "description": null,
+          "productType": false,
+          "originalColor": false,
+          "backgroundColor": "fff9e8db",
+          "showDescription": true,
+          "keepDefaultTitle": false,
+          "productListAnimationConfig": null
         },
         {
-          "category": "gid://shopify/Collection/446745641265",
-          "image": "https://user-images.githubusercontent.com/1459805/60091575-1f12ca80-976f-11e9-962c-bdccff60d143.png",
-          "padding": 15.0
-        },
-        {
-          "product": "8396924911921",
-          "image": "https://user-images.githubusercontent.com/1459805/60091808-a19b8a00-976f-11e9-9cc7-576ca05c2442.png",
-          "padding": 15.0
+          "tag": null,
+          "name": null,
+          "image": "https://cdn.shopify.com/s/files/1/0619/3915/5027/files/box.png",
+          "order": null,
+          "title": null,
+          "colors": null,
+          "onSale": false,
+          "orderby": null,
+          "category": "gid://shopify/Collection/286629101651",
+          "featured": false,
+          "showText": null,
+          "description": null,
+          "productType": false,
+          "originalColor": false,
+          "backgroundColor": "fff9e8db",
+          "showDescription": true,
+          "keepDefaultTitle": false,
+          "productListAnimationConfig": null
         }
       ],
-      "itemsWeb": [
-        {
-          "category": 29,
-          "image": "https://cln.sh/41hyDrzG+",
-          "padding": 15.0
-        },
-        {
-          "category": 28,
-          "image": "https://cln.sh/5nl2ZsKG+",
-          "padding": 15.0
-        },
-        {
-          "product": 30,
-          "image": "https://cln.sh/q24Xpr1c+",
-          "padding": 15.0
-        }
-      ]
+      "layout": "category",
+      "radius": 50,
+      "shadow": null,
+      "columns": 5,
+      "marginX": 0,
+      "marginY": 0,
+      "spacing": 12,
+      "paddingX": 0,
+      "paddingY": 0,
+      "hideTitle": false,
+      "marginTop": 10,
+      "marginLeft": 15,
+      "imageBoxFit": "cover",
+      "marginRight": 15,
+      "enableBorder": true,
+      "imageSpacing": 0,
+      "marginBottom": 10,
+      "noBackground": false,
+      "gradientStyle": false,
+      "labelFontSize": 14,
+      "originalColor": false,
+      "separateWidth": 24,
+      "textAlignment": "topLeft",
+      "horizontalItem": false,
+      "animationConfig": null,
+      "enableBackground": null,
+      "enableFilterCategory": false,
+      "productCategoryMenuStyle": "menu"
     },
     {
-      "layout": "bannerImage",
+      "fit": "fitWidth",
       "items": [
         {
-          "category": "gid://shopify/Collection/446745674033",
-          "image": "https://user-images.githubusercontent.com/1459805/59846823-12ffc500-938b-11e9-8d93-65ead3d6b1dd.png",
-          "padding": 5.0
+          "key": "ZdtEXpvCDY",
+          "name": "Korean products time",
+          "type": "image",
+          "image": "https://btime.om/cdn/shop/files/btken-min.jpg",
+          "video": "",
+          "padding": 15,
+          "category": "gid://shopify/Collection/293196398675",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false
         },
         {
-          "category": "gid://shopify/Collection/446745674033",
-          "image": "https://user-images.githubusercontent.com/1459805/59846824-12ffc500-938b-11e9-8d5a-fc42cb1b7658.png",
-          "padding": 5.0,
-          "featured": true
+          "key": "BVTbnQtePX",
+          "name": "",
+          "type": "image",
+          "image": "https://btime.om/cdn/shop/files/wbten-min.jpg",
+          "video": "",
+          "padding": 15,
+          "category": "gid://shopify/Collection/293196431443",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false
         }
-      ]
+      ],
+      "design": "default",
+      "height": 0.2,
+      "isBlur": false,
+      "layout": "bannerImage",
+      "radius": 15.5,
+      "padding": 0,
+      "autoPlay": false,
+      "isSlider": true,
+      "parallax": false,
+      "upHeight": 0,
+      "isSoundOn": false,
+      "marginTop": 0,
+      "marginLeft": 0,
+      "showNumber": false,
+      "marginRight": 0,
+      "intervalTime": 3,
+      "isHorizontal": false,
+      "marginBottom": 0,
+      "autoPlayVideo": false,
+      "numberPadding": {
+        "end": 0,
+        "top": 15,
+        "start": 0,
+        "bottom": 0
+      },
+      "showIndicator": true,
+      "showBackground": false,
+      "numberAlignment": {
+        "value": "topEnd"
+      },
+      "enableBackground": false,
+      "indicatorPadding": {
+        "end": 0,
+        "top": 0,
+        "start": 0,
+        "bottom": 13
+      },
+      "pageIndicatorType": "line",
+      "indicatorAlignment": {
+        "value": "bottomCenter"
+      },
+      "parallaxImageRatio": 1.2,
+      "enableTimeIndicator": true,
+      "doubleTapToFullScreen": false
     },
     {
-      "name": "Recent View",
-      "layout": "recentView"
-    },
-    {
-      "name": "Woman Collections",
-      "image": "",
+      "name": "Trending",
+      "rows": 1,
       "layout": "threeColumn",
-      "category": "gid://shopify/Collection/446745444657",
-      "isSnapping": true
+      "onSale": false,
+      "columns": 3,
+      "hMargin": 6,
+      "useSort": false,
+      "vMargin": 0,
+      "category": "gid://shopify/Collection/286631067731",
+      "hPadding": 6,
+      "parallax": false,
+      "vPadding": 2,
+      "boxShadow": {
+        "x": 0,
+        "y": 10,
+        "blurRadius": 10,
+        "colorOpacity": 0.1,
+        "spreadRadius": 10
+      },
+      "hidePrice": false,
+      "hideStore": false,
+      "hideTitle": false,
+      "showHeart": false,
+      "titleLine": 2,
+      "cardDesign": "card",
+      "imageRatio": 0.8,
+      "isSnapping": false,
+      "imageBoxfit": "cover",
+      "borderRadius": 3,
+      "enableRating": false,
+      "showCartIcon": true,
+      "showCategory": false,
+      "showQuantity": false,
+      "showCountDown": false,
+      "showOnlyImage": false,
+      "advancedParams": {},
+      "cartIconRadius": 16,
+      "showCartButton": false,
+      "showStockStatus": false,
+      "backgroundRadius": 10,
+      "enableAutoSliding": false,
+      "showCartIconColor": true,
+      "useCircularRadius": true,
+      "parallaxImageRatio": 1.2,
+      "enableBottomAddToCart": false,
+      "productListItemHeight": 125,
+      "hideEmptyProductLayout": false,
+      "hideEmptyProductListRating": false,
+      "showCartButtonWithQuantity": false
     },
     {
-      "name": "Man Collections",
-      "image": "",
+      "name": "Offers ⚡️",
+      "rows": 1,
+      "layout": "saleOff",
+      "onSale": true,
+      "columns": 0,
+      "hMargin": 9,
+      "useSort": false,
+      "vMargin": 30,
+      "category": "gid://shopify/Collection/286629003347",
+      "featured": false,
+      "hPadding": 8,
+      "parallax": false,
+      "vPadding": 6,
+      "boxShadow": {
+        "x": 0,
+        "y": 6,
+        "blurRadius": 14,
+        "colorOpacity": 0.1,
+        "spreadRadius": 10
+      },
+      "hidePrice": false,
+      "hideStore": false,
+      "hideTitle": false,
+      "showHeart": true,
+      "cardDesign": "card",
+      "imageRatio": 1.2,
+      "isSnapping": true,
+      "spaceWidth": 156.53672329215112,
+      "imageBoxfit": "cover",
+      "borderRadius": 12,
+      "enableRating": true,
+      "showCartIcon": true,
+      "showCategory": false,
+      "showQuantity": false,
+      "showCountDown": true,
+      "showOnlyImage": false,
+      "advancedParams": {},
+      "cartIconRadius": 9,
+      "showCartButton": false,
+      "backgroundColor": "fff5bdb7",
+      "backgroundImage": "https://cdn.shopify.com/s/files/1/0619/3915/5027/files/sale.png",
+      "showStockStatus": false,
+      "backgroundBoxFit": "contain",
+      "backgroundHeight": 288,
+      "backgroundRadius": 0,
+      "enableAutoSliding": false,
+      "showCartIconColor": true,
+      "useCircularRadius": true,
+      "parallaxImageRatio": 1.2,
+      "enableBottomAddToCart": true,
+      "productListItemHeight": 125,
+      "hideEmptyProductLayout": false,
+      "hideEmptyProductListRating": false,
+      "showCartButtonWithQuantity": false
+    },
+    {
+      "size": 2,
+      "type": "icon",
+      "wrap": true,
+      "items": [
+        {
+          "tag": null,
+          "name": null,
+          "image": "https://btime.om/cdn/shop/files/anua_logo12.png",
+          "order": null,
+          "title": "",
+          "colors": null,
+          "onSale": false,
+          "orderby": null,
+          "category": "gid://shopify/Collection/286628839507",
+          "featured": false,
+          "showText": null,
+          "description": "",
+          "productType": false,
+          "originalColor": true,
+          "backgroundColor": "ffffffff",
+          "showDescription": true,
+          "keepDefaultTitle": false,
+          "productListAnimationConfig": null
+        },
+        {
+          "tag": null,
+          "name": null,
+          "image": "https://btime.om/cdn/shop/files/The_Ordinary_logo-500x500.png",
+          "order": null,
+          "title": "",
+          "colors": null,
+          "onSale": false,
+          "orderby": null,
+          "category": "gid://shopify/Collection/293855756371",
+          "featured": false,
+          "showText": null,
+          "description": "",
+          "productType": false,
+          "originalColor": true,
+          "backgroundColor": "ffffffff",
+          "showDescription": true,
+          "keepDefaultTitle": false,
+          "productListAnimationConfig": null
+        },
+        {
+          "tag": null,
+          "name": null,
+          "image": "https://btime.om/cdn/shop/files/skin1004_1_x100_1.svg",
+          "order": null,
+          "title": "",
+          "colors": null,
+          "onSale": false,
+          "orderby": null,
+          "category": "gid://shopify/Collection/293855789139",
+          "featured": false,
+          "showText": null,
+          "description": "",
+          "productType": false,
+          "originalColor": true,
+          "backgroundColor": "ffffffff",
+          "showDescription": true,
+          "keepDefaultTitle": false,
+          "productListAnimationConfig": null
+        },
+        {
+          "tag": null,
+          "name": null,
+          "image": "https://btime.om/cdn/shop/files/Beauty_of_Joseon_logo.webp",
+          "order": null,
+          "title": "",
+          "colors": null,
+          "onSale": false,
+          "orderby": null,
+          "category": "gid://shopify/Collection/293855854675",
+          "featured": false,
+          "showText": null,
+          "description": "",
+          "productType": false,
+          "originalColor": true,
+          "backgroundColor": "ffffffff",
+          "showDescription": true,
+          "keepDefaultTitle": false,
+          "productListAnimationConfig": null
+        },
+        {
+          "tag": null,
+          "name": null,
+          "image": "https://btime.om/cdn/shop/files/cosrx5001.png",
+          "order": null,
+          "title": "",
+          "colors": null,
+          "onSale": false,
+          "orderby": null,
+          "category": "gid://shopify/Collection/293856018515",
+          "featured": false,
+          "showText": null,
+          "description": "",
+          "productType": false,
+          "originalColor": true,
+          "backgroundColor": "ffffffff",
+          "showDescription": true,
+          "keepDefaultTitle": false,
+          "productListAnimationConfig": null
+        },
+        {
+          "tag": null,
+          "name": null,
+          "image": "https://btime.om/cdn/shop/files/axis-y_logo_540x_1.svg",
+          "order": null,
+          "title": null,
+          "colors": null,
+          "onSale": false,
+          "orderby": null,
+          "category": "gid://shopify/Collection/293856051283",
+          "featured": false,
+          "showText": null,
+          "description": null,
+          "productType": false,
+          "originalColor": true,
+          "backgroundColor": "ffffffff",
+          "showDescription": true,
+          "keepDefaultTitle": false,
+          "productListAnimationConfig": null
+        }
+      ],
+      "layout": "category",
+      "radius": 12,
+      "shadow": null,
+      "columns": 3,
+      "marginX": 0,
+      "marginY": 0,
+      "spacing": 0,
+      "paddingX": 0,
+      "paddingY": 0,
+      "hideTitle": true,
+      "marginTop": 0,
+      "marginLeft": 11,
+      "imageBoxFit": "cover",
+      "marginRight": 11,
+      "enableBorder": true,
+      "imageSpacing": 0,
+      "marginBottom": 0,
+      "noBackground": false,
+      "gradientStyle": true,
+      "labelFontSize": 8,
+      "originalColor": false,
+      "separateWidth": 24,
+      "textAlignment": "topLeft",
+      "horizontalItem": false,
+      "animationConfig": null,
+      "enableBackground": null,
+      "imageBorderStyle": "dot",
+      "imageBorderWidth": 0.1,
+      "enableFilterCategory": false,
+      "productCategoryMenuStyle": "menu"
+    },
+    {
+      "name": "New",
+      "rows": 1,
+      "limit": 5,
+      "layout": "simpleList",
+      "onSale": false,
+      "columns": 3,
+      "hMargin": 6,
+      "useSort": false,
+      "vMargin": 0,
+      "category": "gid://shopify/Collection/286630969427",
+      "hPadding": 6,
+      "parallax": false,
+      "vPadding": 2,
+      "hidePrice": false,
+      "hideStore": false,
+      "hideTitle": false,
+      "showHeart": false,
+      "cardDesign": "card",
+      "imageRatio": 1.2,
+      "isSnapping": false,
+      "imageBoxfit": "cover",
+      "borderRadius": 3,
+      "enableRating": true,
+      "showCartIcon": true,
+      "showCategory": false,
+      "showQuantity": false,
+      "showCountDown": false,
+      "showOnlyImage": false,
+      "advancedParams": {},
+      "cartIconRadius": 9,
+      "showCartButton": false,
+      "showStockStatus": true,
+      "backgroundRadius": 10,
+      "enableAutoSliding": false,
+      "showCartIconColor": true,
+      "useCircularRadius": true,
+      "parallaxImageRatio": 1.2,
+      "enableBottomAddToCart": true,
+      "productListItemHeight": 125,
+      "hideEmptyProductLayout": false,
+      "hideEmptyProductListRating": false,
+      "showCartButtonWithQuantity": false
+    },
+    {
+      "name": "Best Sellers",
+      "rows": 1,
       "layout": "twoColumn",
-      "category": "gid://shopify/Collection/444187279665",
-      "isSnapping": true
+      "onSale": false,
+      "columns": 3,
+      "hMargin": 6,
+      "useSort": false,
+      "vMargin": 0,
+      "category": "gid://shopify/Collection/286628905043",
+      "hPadding": 6,
+      "parallax": false,
+      "vPadding": 2,
+      "hidePrice": false,
+      "hideStore": false,
+      "hideTitle": false,
+      "showHeart": false,
+      "cardDesign": "card",
+      "imageRatio": 1.2,
+      "isSnapping": false,
+      "imageBoxfit": "cover",
+      "borderRadius": 3,
+      "enableRating": true,
+      "showCartIcon": true,
+      "showCategory": false,
+      "showQuantity": false,
+      "showCountDown": false,
+      "showOnlyImage": false,
+      "advancedParams": {},
+      "cartIconRadius": 9,
+      "showCartButton": false,
+      "showStockStatus": false,
+      "backgroundRadius": 10,
+      "enableAutoSliding": false,
+      "showCartIconColor": true,
+      "useCircularRadius": true,
+      "parallaxImageRatio": 1.2,
+      "enableBottomAddToCart": false,
+      "productListItemHeight": 125,
+      "hideEmptyProductLayout": false,
+      "hideEmptyProductListRating": false,
+      "showCartButtonWithQuantity": false
     },
     {
-      "name": "Recent View",
-      "layout": "recentView"
-    },
-    {
-      "name": "Our Blog Posts",
-      "layout": "blog"
-    },
-    {
-      "name": "New Collections",
-      "layout": "staggered",
-      "limit": 20,
-      "category": "gid://shopify/Collection/446745674033"
+      "name": "Just for You",
+      "rows": 1,
+      "layout": "largeCard",
+      "onSale": false,
+      "columns": 3,
+      "hMargin": 6,
+      "useSort": false,
+      "vMargin": 0,
+      "hPadding": 6,
+      "parallax": false,
+      "vPadding": 2,
+      "hidePrice": false,
+      "hideStore": false,
+      "hideTitle": false,
+      "showHeart": false,
+      "cardDesign": "card",
+      "imageRatio": 1.2,
+      "isSnapping": false,
+      "imageBoxfit": "cover",
+      "borderRadius": 3,
+      "enableRating": true,
+      "showCartIcon": true,
+      "showCategory": false,
+      "showQuantity": false,
+      "showCountDown": false,
+      "showOnlyImage": false,
+      "advancedParams": {},
+      "cartIconRadius": 9,
+      "showCartButton": false,
+      "showStockStatus": true,
+      "backgroundRadius": 10,
+      "enableAutoSliding": false,
+      "showCartIconColor": true,
+      "useCircularRadius": true,
+      "parallaxImageRatio": 1.2,
+      "enableBottomAddToCart": true,
+      "productListItemHeight": 125,
+      "hideEmptyProductLayout": false,
+      "hideEmptyProductListRating": false,
+      "showCartButtonWithQuantity": false
     }
   ],
   "Setting": {
-    "MainColor": "#3FC1BE",
+    "ShowChat": true,
+    "FontFamily": "Cairo",
+    "FontHeader": "Cairo",
+    "StickyHeader": false,
+    "TabBarConfig": {
+      "color": null,
+      "enable": true,
+      "iconSize": 22,
+      "colorCart": null,
+      "colorIcon": null,
+      "marginTop": 0,
+      "isSafeArea": true,
+      "marginLeft": 0,
+      "paddingTop": 0,
+      "enableOnTop": false,
+      "lazyLoading": false,
+      "marginRight": 0,
+      "paddingLeft": 0,
+      "marginBottom": 0,
+      "paddingRight": 0,
+      "showFloating": false,
+      "showMinimize": false,
+      "enableDivider": true,
+      "paddingBottom": 0,
+      "radiusTopLeft": 0,
+      "TabBarFloating": {
+        "color": null,
+        "width": 50,
+        "height": 50,
+        "margin": null,
+        "radius": 50,
+        "location": null,
+        "position": 0,
+        "sizeIcon": null,
+        "elevation": 2,
+        "isCoverMode": false,
+        "notchMargin": 4,
+        "floatingType": "circle"
+      },
+      "bottomBarStyle": "static",
+      "indicatorStyle": "material",
+      "radiusTopRight": 0,
+      "TabBarIndicator": {
+        "color": null,
+        "height": 1,
+        "radius": 0,
+        "strokeWidth": 0,
+        "tabPosition": "bottom",
+        "indicatorSize": "label",
+        "paintingStyle": "stroke",
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "verticalPadding": 0,
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "horizontalPadding": 0,
+        "distanceFromCenter": 0
+      },
+      "colorActiveIcon": null,
+      "alwaysShowTabBar": false,
+      "radiusBottomLeft": 0,
+      "showFloatingClip": true,
+      "radiusBottomRight": 0
+    },
+    "ProductDetail": "flatStyle",
     "ProductListLayout": "list",
-    "StickyHeader": false
+    "SmartEngagementBanner": {
+      "popup": {
+        "enable": false,
+        "updatedTime": 1746666068211,
+        "closePosition": "topRight",
+        "alwaysShowUponOpen": true
+      },
+      "sticky": {
+        "enable": false
+      },
+      "flexible": {
+        "width": 100,
+        "enable": false,
+        "height": 100,
+        "canDrag": true,
+        "canClose": true
+      }
+    }
   },
   "TabBar": [
     {
+      "key": "tuQepLAfUs",
+      "icon": "assets/icons/tabs/icon-home.png",
+      "label": "Home",
       "layout": "home",
-      "icon": "home",
-      "pos": 100,
-      "fontFamily": "CupertinoIcons",
-      "key": "p1q235ba14"
+      "defaultTab": false,
+      "fullscreen": false,
+      "showOriginalColor": false
     },
     {
-      "pos": 200,
+      "key": "HdRCoCQGqFH",
+      "icon": "assets/icons/tabs/icon-lists.png",
+      "label": "Categories",
       "layout": "category",
-      "icon": "rectangle_grid_1x2",
-      "fontFamily": "CupertinoIcons",
+      "visible": true,
+      "parallax": true,
+      "categories": [
+        "gid://shopify/Collection/286628937811",
+        "gid://shopify/Collection/286629036115",
+        "gid://shopify/Collection/286629068883",
+        "gid://shopify/Collection/286628872275",
+        "gid://shopify/Collection/286629101651",
+        "gid://shopify/Collection/293196398675"
+      ],
+      "defaultTab": false,
+      "fullscreen": true,
+      "showQRCode": true,
+      "showSearch": true,
       "categoryLayout": "card",
-      "key": "hwu0rkrizt",
-      "remapCategories": [
-        {
-          "category": "gid://shopify/Collection/446745674033",
-          "name": "Features",
-          "image": "https://cdn.shopify.com/s/files/1/0331/5230/3239/collections/fashion-PN7FSF5_350x500.jpg?v=1581920391"
-        },
-        {
-          "parent": "gid://shopify/Collection/446745674033",
-          "category": "gid://shopify/Collection/446745739569",
-          "name": "Bags"
-        },
-        {
-          "parent": "gid://shopify/Collection/446745674033",
-          "category": "gid://shopify/Collection/446745641265",
-          "name": "Clothing"
-        },
-        {
-          "parent": "gid://shopify/Collection/446745674033",
-          "category": "gid://shopify/Collection/446745936177",
-          "name": "Shoes"
-        },
-        {
-          "category": "gid://shopify/Collection/446745444657",
-          "name": "Women"
-        },
-        {
-          "category": "gid://shopify/Collection/444187279665",
-          "name": "Man"
-        }
-      ]
+      "showOriginalColor": false,
+      "parallaxImageRatio": 1.2
     },
     {
-      "key": "2reihs4qzc",
-      "icon": "search",
-      "layout": "search",
-      "fontFamily": "CupertinoIcons",
-      "pos": 300,
-      "size": 24
-    },
-    {
-      "pos": 400,
-      "icon": "bag",
+      "key": "rftKwhraqloVZ",
+      "icon": "assets/icons/tabs/icon-cart2.png",
+      "label": "Cart",
       "layout": "cart",
-      "categoryLayout": "cart",
-      "key": "a2xts0oou6",
-      "fontFamily": "CupertinoIcons"
+      "defaultTab": false,
+      "fullscreen": true,
+      "showOriginalColor": false
     },
     {
-      "layout": "profile",
+      "key": "FKilStwevQ",
+      "icon": "assets/icons/tabs/icon-heartthin.png",
+      "label": "Wishlist",
+      "layout": "wishlist",
+      "defaultTab": false,
+      "fullscreen": true,
+      "showOriginalColor": false
+    },
+    {
+      "key": "CtDIiRCJrL",
       "icon": "assets/icons/tabs/icon-user.png",
-      "showChat": true,
+      "label": "My Account",
+      "layout": "profile",
+      "settings": [
+        "biometrics",
+        "wishlist",
+        "notifications",
+        "language",
+        "darkTheme",
+        "order",
+        "rating",
+        "privacy"
+      ],
+      "styleItem": "flatListTile",
+      "background": "https://trello.com/1/cards/6818d78e70e5270c2016d1f2/attachments/681c1d6b6c25844d765b1c07/download/profile.png",
+      "defaultTab": false,
+      "fullscreen": true,
       "showBackground": true,
-      "styleItem": "listTile",
-      "settingStyle": "normal"
+      "showOriginalColor": false
     }
   ],
-  "searchSuggestion": [
-    "Here are some suggestions:",
-    "Print",
-    "T-Shirt",
-    "Jersey",
-    "Hoodie"
-  ],
-  "OnBoarding": {
+  "AppBar": {
+    "snap": true,
+    "items": [],
+    "enable": false,
+    "pinned": true,
+    "floating": true,
+    "elevation": 0,
+    "expandedItems": [],
+    "showOnScreens": [
+      "home"
+    ],
+    "alwaysShowAppBar": false
+  },
+  "Drawer": {
+    "logo": "https://trello.com/1/cards/680a257aba7935ed1357613b/attachments/6816aff09cfa72c9a18607b0/download/1.svg",
+    "items": [
+      {
+        "show": true,
+        "type": "home"
+      },
+      {
+        "show": false,
+        "type": "blog"
+      },
+      {
+        "show": false,
+        "type": "categories"
+      },
+      {
+        "show": true,
+        "type": "cart"
+      },
+      {
+        "show": true,
+        "type": "profile"
+      },
+      {
+        "show": true,
+        "type": "login"
+      },
+      {
+        "show": true,
+        "type": "web-qMVLBlTNUP"
+      },
+      {
+        "show": true,
+        "type": "category"
+      }
+    ],
+    "enable": true,
+    "filter": 0.3,
+    "logoDark": "https://trello.com/1/cards/680a257aba7935ed1357613b/attachments/68180aac2d74983d6722d0c8/download/2_modified.svg",
+    "safeArea": false,
+    "iconColor": "FFFEDAC4",
+    "textColor": "FFFEDAC4",
+    "logoConfig": {
+      "width": 50,
+      "boxFit": "fitWidth",
+      "height": 70,
+      "marginTop": 27,
+      "marginLeft": 27,
+      "marginRight": 47,
+      "useMaxWidth": true,
+      "marginBottom": 0
+    },
+    "zoomConfig": {
+      "angle": 0,
+      "style": "scaleRight",
+      "slideWidth": 0.55,
+      "slideMargin": 0,
+      "borderRadius": 67.5,
+      "enableShadow": false,
+      "backgroundImage": null,
+      "mainScreenScale": 0.1
+    },
+    "colorFilter": "FFB24CB6",
+    "subDrawerItem": {
+      "web-qMVLBlTNUP": {
+        "id": "web-12",
+        "icon": "bubble_right_fill",
+        "title": "Contact",
+        "webUrl": "https://wa.me/96877255566",
+        "buttons": [
+          {
+            "width": 40,
+            "height": 40,
+            "radius": 0,
+            "navigator": {},
+            "marginLeft": 5,
+            "marginRight": 5,
+            "textFontSize": 14
+          }
+        ],
+        "enableClose": false,
+        "webViewMode": true,
+        "bannerHeight": 15,
+        "useTabScreen": false,
+        "enableDivider": false,
+        "enableForward": false,
+        "requiredLogin": false,
+        "enableBackward": true,
+        "iconFontFamily": "CupertinoIcons",
+        "buttonAlignment": "centerLeft"
+      }
+    },
+    "backgroundColor": "FF7C2C86",
+    "backgroundImage": null
+  },
+  "overrideTranslation": {
+    "@@locale": "en"
+  },
+  "onBoardingConfig": {
     "data": [
       {
-        "title": "Welcome to FluxStore",
+        "desc": "Everything you need in beauty and care, delivered to your doorstep.",
         "image": "assets/images/fogg-delivery-1.png",
-        "desc": "Fluxstore is on the way to serve you. ",
-        "background": "#FFF3F2"
+        "title": "Welcome to Beauty Time"
       },
       {
-        "title": "Connect Surrounding World",
+        "desc": "Explore the world around you easily and quickly... just one tap away.",
         "image": "assets/images/fogg-uploading-1.png",
-        "desc": "See all things happening around you just by a click in your phone. Fast, convenient and clean.",
-        "background": "#F2FFFC"
+        "title": "Everything at Your Fingertips"
       },
       {
-        "title": "Let's Get Started",
-        "image": "fogg-order-completed.png",
-        "desc": "Waiting no more, let's see what we get!",
-        "background": "#F9F2FF"
+        "desc": "Discover your new world now!",
+        "image": "assets/images/fogg-order-completed.png",
+        "title": "Ready to Get Started?"
       }
     ]
   },
-  "PrivacyPoliciesPageUrlOrId": "https://policies.google.com/?hl=en"
+  "Datetime": "01:19:27 - Fri 9 May"
 }
