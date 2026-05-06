@@ -192,15 +192,17 @@
     "productCategoryMenuStyle": "menu",
     "allowFilterMultipleCategory": false
   }, {
+    "layout": "bannerImage",
+    "design": "default",
     "fit": "fitWidth",
-    "key": "HwcmXqrBuFlm",
+    "marginLeft": 0.0,
     "items": [{
       "key": "ZdtEXpvCDY",
-      "name": "وقت المنتجات الكورية",
+      "name": "Korean products time",
       "type": "image",
       "image": "https://btime.om/cdn/shop/files/btk-min.jpg",
       "video": "",
-      "padding": 15,
+      "padding": 15.0,
       "category": "gid://shopify/Collection/293196398675",
       "products": [],
       "productLength": 3,
@@ -213,7 +215,7 @@
       "type": "image",
       "image": "https://btime.om/cdn/shop/files/wbt-min.jpg",
       "video": "",
-      "padding": 15,
+      "padding": 15.0,
       "category": "gid://shopify/Collection/293196431443",
       "products": [],
       "productLength": 3,
@@ -221,52 +223,50 @@
       "bannerWithProduct": false,
       "defaultShowProduct": false
     }],
-    "design": "default",
+    "marginBottom": 0.0,
     "height": 0.2,
-    "isBlur": false,
-    "isBulk": null,
-    "layout": "bannerImage",
+    "marginRight": 0.0,
+    "marginTop": 0.0,
     "radius": 15.5,
-    "padding": 0,
-    "autoPlay": false,
-    "isSlider": true,
+    "padding": 0.0,
     "parallax": false,
-    "upHeight": 0,
-    "isSoundOn": false,
-    "marginTop": 0,
-    "marginLeft": 0,
-    "showNumber": false,
-    "marginRight": 0,
-    "intervalTime": 3,
+    "parallaxImageRatio": 1.2,
     "isHorizontal": false,
-    "isPreviewing": null,
-    "marginBottom": 0,
-    "autoPlayVideo": false,
-    "numberPadding": {
-      "end": 0,
-      "top": 15,
-      "start": 0,
-      "bottom": 0
-    },
-    "showIndicator": true,
-    "showBackground": false,
-    "numberAlignment": {
-      "value": "topEnd"
-    },
     "enableBackground": false,
-    "indicatorPadding": {
-      "end": 0,
-      "top": 0,
-      "start": 0,
-      "bottom": 13
-    },
-    "pageIndicatorType": "line",
     "indicatorAlignment": {
       "value": "bottomCenter"
     },
-    "parallaxImageRatio": 1.2,
+    "indicatorPadding": {
+      "start": 0.0,
+      "top": 0.0,
+      "end": 0.0,
+      "bottom": 13.0
+    },
+    "numberAlignment": {
+      "value": "topEnd"
+    },
+    "numberPadding": {
+      "start": 0.0,
+      "top": 15.0,
+      "end": 0.0,
+      "bottom": 0.0
+    },
+    "isSlider": true,
+    "autoPlay": false,
+    "intervalTime": 3,
+    "showIndicator": true,
+    "showNumber": false,
+    "isBlur": false,
+    "showBackground": false,
+    "upHeight": 0.0,
+    "isSoundOn": false,
     "enableTimeIndicator": true,
-    "doubleTapToFullScreen": false
+    "autoPlayVideo": false,
+    "doubleTapToFullScreen": false,
+    "pageIndicatorType": "line",
+    "key": "HwcmXqrBuFlm",
+    "isBulk": null,
+    "isPreviewing": null
   }, {
     "key": "NsNZjYTBio",
     "size": 1,
@@ -930,19 +930,62 @@
     "ProductListLayout": "list",
     "SmartEngagementBanner": {
       "popup": {
-        "data": {},
         "enable": false,
-        "iconSize": 24,
-        "updatedTime": 1763412398354,
-        "closePosition": "topRight",
+        "data": {
+          "layout": "bannerImage",
+          "design": "default",
+          "fit": "fitWidth",
+          "marginLeft": 0.0,
+          "items": [],
+          "marginBottom": 0.0,
+          "marginRight": 0.0,
+          "marginTop": 0.0,
+          "radius": 6.0,
+          "padding": 0.0,
+          "parallax": true,
+          "parallaxImageRatio": 1.2,
+          "isHorizontal": false,
+          "enableBackground": false,
+          "indicatorAlignment": {
+            "value": "bottomCenter"
+          },
+          "indicatorPadding": {
+            "start": 0.0,
+            "top": 0.0,
+            "end": 0.0,
+            "bottom": 12.0
+          },
+          "numberAlignment": {
+            "value": "topEnd"
+          },
+          "numberPadding": {
+            "start": 0.0,
+            "top": 15.0,
+            "end": 0.0,
+            "bottom": 0.0
+          },
+          "isSlider": true,
+          "autoPlay": false,
+          "intervalTime": 3,
+          "showIndicator": false,
+          "showNumber": false,
+          "isBlur": false,
+          "showBackground": false,
+          "upHeight": 0.0,
+          "isSoundOn": false,
+          "enableTimeIndicator": true,
+          "autoPlayVideo": false,
+          "doubleTapToFullScreen": false,
+          "pageIndicatorType": "line"
+        },
         "alwaysShowUponOpen": true,
-        "allowTapOutsideToClose": false
-      },
-      "sticky": {
-        "data": {},
-        "enable": false
+        "closePosition": "topRight",
+        "updatedTime": 1773779013988,
+        "allowTapOutsideToClose": false,
+        "iconSize": 24.0
       },
       "flexible": {
+        "enable": true,
         "data": {
           "items": [{
             "image": "https://assets9.lottiefiles.com/private_files/lf30_a4mKwA.json",
@@ -967,11 +1010,14 @@
           "marginBottom": 0,
           "enableBackground": false
         },
-        "width": 100,
-        "enable": true,
-        "height": 100,
         "canDrag": true,
-        "canClose": true
+        "canClose": true,
+        "width": 100,
+        "height": 100
+      },
+      "sticky": {
+        "enable": false,
+        "data": {}
       }
     }
   },
@@ -1131,6 +1177,9 @@
       "type": "screen-brandsWeb"
     }, {
       "show": true,
+      "type": "web-trackOrder"
+    }, {
+      "show": true,
       "type": "screen-bcltYTyBqf"
     }, {
       "show": false,
@@ -1215,6 +1264,17 @@
         "useTabScreen": false,
         "iconFontFamily": "CupertinoIcons"
       },
+      "web-trackOrder": {
+        "id": "web-trackOrder",
+        "icon": "cube_box",
+        "title": "تتبع الطلب",
+        "webUrl": "https://app.beauttime.com/",
+        "enableClose": false,
+        "webViewMode": true,
+        "useTabScreen": false,
+        "enableForward": true,
+        "enableBackward": true
+      },
       "screen-bcltYTyBqf": {
         "id": "web-12",
         "icon": "gear_solid",
@@ -1241,14 +1301,14 @@
     "noFavoritesYet": "قائمة المفضلة فارغة",
     "removeWishlist": "إزالة من المفضلة",
     "saveToWishList": "حفظ في المفضلة",
+    "orderSuccessMsg1": "بتوصلك رسالة واتساب على رقمك المسجّل في الطلب، وبتحصل فيها كل التفاصيل المطلوبة، سواء لتأكيد الطلب أو لمتابعة شحنه.",
+    "orderSuccessMsg2": "إذا كنت مسجّل عندنا تقدر تشوف طلباتك من حسابك،\nوإذا ما مسجّل تقدر تسجّل بسهولة في بيوتي تايم.\nوبإمكانك بعد متابعة طلبك مباشرة عبر الواتساب، وما تحتاج تسجّل.",
     "removeFromWishList": "إزالة من المفضلة",
     "emptyWishlistSubtitle": "اضغط على أيقونة القلب بجوار المنتج لإضافته إلى المفضلة. سنحفظها لك هنا!",
     "removeWishlistContent": "هل تريد إزالة {count} عنصر من المفضلة؟",
     "subTitleOrderConfirmed": "شكرًا على طلبك! الحين نجهّز لك كل شي. إذا كان طلبك دفع عند الاستلام، يرجى تأكيد الطلب عبر الواتساب—بتوصلك رسالة خلال 30 ثانية.",
     "emptyWishlistSubtitle02": "المفضلة فارغة حالياً. ابدأ بإضافة منتجاتك المفضلة!",
-    "weWillSendYouNotification": "بنرسّلك إشعارات أول ما تنزل عروض جديدة، عشان تكون دايمًا بالصورة وما يفوتك ولا عرض. وتقدر تغيّر الإعدادات بأي وقت يناسبك.",
-    "orderSuccessMsg1": "بتوصلك رسالة واتساب على رقمك المسجّل في الطلب، وبتحصل فيها كل التفاصيل المطلوبة، سواء لتأكيد الطلب أو لمتابعة شحنه.",
-    "orderSuccessMsg2": "إذا كنت مسجّل عندنا تقدر تشوف طلباتك من حسابك،\nوإذا ما مسجّل تقدر تسجّل بسهولة في بيوتي تايم.\nوبإمكانك بعد متابعة طلبك مباشرة عبر الواتساب، وما تحتاج تسجّل."
+    "weWillSendYouNotification": "بنرسّلك إشعارات أول ما تنزل عروض جديدة، عشان تكون دايمًا بالصورة وما يفوتك ولا عرض. وتقدر تغيّر الإعدادات بأي وقت يناسبك."
   },
-  "Datetime": "02:41:46 - Tue 2 Dec"
+  "Datetime": "05:16:15 - Tue 24 Mar"
 }
