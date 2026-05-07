@@ -850,7 +850,7 @@
     "useCircularRadius": true,
     "parallaxImageRatio": 1.2,
     "enableBottomAddToCart": true,
-    "productListItemHeight": 125,
+    "productListItemHeight": 160,
     "cartButtonQuantitySize": 40,
     "hideEmptyProductLayout": false,
     "showProductCardCategory": false,
