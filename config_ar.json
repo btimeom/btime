@@ -1036,133 +1036,123 @@
 "canDrag":true,
 "canClose":true}}
 },
-"TabBar": [
-  {
-    "key": "tuQepLAfUs",
-    "layout": "home",
-    "icon": "assets/icons/tabs/icon-home.png",
-    "label": "الرئيسية",
-    "defaultTab": false,
-    "fullscreen": false,
-    "showOriginalColor": false
-  },
-  {
-    "key": "HdRCoCQGqFH",
-    "icon": "https://cdn.shopify.com/s/files/1/0619/3915/5027/files/category.png",
-    "label": "الفئات",
-    "layout": "category",
-    "visible": true,
-    "parallax": false,
-    "categories": [
-      "gid://shopify/Collection/286628937811",
-      "gid://shopify/Collection/286629036115",
-      "gid://shopify/Collection/286629068883",
-      "gid://shopify/Collection/293196398675",
-      "gid://shopify/Collection/286633656403",
-      "gid://shopify/Collection/286628872275",
-      "gid://shopify/Collection/286629101651",
-      "gid://shopify/Collection/293196431443",
-      "gid://shopify/Collection/286631067731"
-    ],
-    "fullscreen": false,
-    "showQRCode": true,
-    "showSearch": true,
-    "categoryLayout": "column",
-    "showOriginalColor": false,
-    "parallaxImageRatio": 1.1
-  },
-  {
-    "key": "rftKwhraqloVZ",
-    "icon": "assets/icons/tabs/icon-cart2.png",
-    "label": "السلة",
-    "layout": "cart",
-    "fullscreen": true,
-    "showOriginalColor": false
-  },
-  {
-    "key": "ENDOhlSxCb",
-    "layout": "videos",
-    "icon": "assets/icons/tabs/icon-videos.png",
-    "label": "فيديو",
-    "defaultTab": false,
-    "fullscreen": true,
-    "showOriginalColor": false,
-    "styleVersions": [
-      "1"
-    ]
-  },
-  {
-    "key": "FKilStwevQ",
-    "icon": "assets/icons/tabs/icon-heartthin.png",
-    "label": "المفظلة",
-    "layout": "wishlist",
-    "defaultTab": false,
-    "fullscreen": true,
-    "showOriginalColor": false
-  },
-  {
-    "key": "CtDIiRCJrL",
-    "icon": "assets/icons/tabs/icon-user.png",
-    "label": "حسابي",
-    "layout": "profile",
-    "settings": [
-      "biometrics",
-      "wishlist",
-      "notifications",
-      "language",
-      "currencies",
-      "darkTheme",
-      "order",
-      "rating",
-      "privacy"
-    ],
-    "styleItem": "flatListTile",
-    "background": "https://trello.com/1/cards/6818d78e70e5270c2016d1f2/attachments/681c1d6b6c25844d765b1c07/download/profile.png",
-    "defaultTab": false,
-    "fullscreen": true,
-    "showBackground": true,
-    "showOriginalColor": false
-  },
-  {
-    "key": "pbHLKpPEDu",
-    "icon": "assets/icons/tabs/icon-user.png",
-    "label": "الإعدادات",
-    "layout": "profile",
-    "visible": false,
-    "settings": [
-      "biometrics",
-      "wishlist",
-      "notifications",
-      "language",
-      "currencies",
-      "darkTheme",
-      "order",
-      "rating",
-      "privacy",
-      "about"
-    ],
-    "background": "https://raw.githubusercontent.com/fluxbuilder/images/main/2025/11/d4eb0d49ec3c/1762630550688.png",
-    "defaultTab": false,
-    "fullscreen": false,
-    "showOriginalColor": false,
-    "subGeneralSetting": {
-      "about": {
-        "webUrl": "https://btime.om/pages/whoarewe"
-      }
-    }
-  },
-  {
-    "key": "iZKBNjksIL",
-    "layout": "cart",
-    "icon": "assets/images/no_coupon.png",
-    "label": "كوبون خصم",
-    "visible": false,
-    "defaultTab": false,
-    "fullscreen": false,
-    "showOriginalColor": false
-  }
+"TabBar":[
+{
+"key":"tuQepLAfUs",
+"layout":"home",
+"icon":"assets/icons/tabs/icon-home.png",
+"label":"الرئيسية",
+"defaultTab":false,
+"fullscreen":false,
+"showOriginalColor":false
+},
+{
+"key":"HdRCoCQGqFH",
+"icon":"https://cdn.shopify.com/s/files/1/0619/3915/5027/files/category.png",
+"label":"الفئات",
+"layout":"category",
+"visible":true,
+"parallax":false,
+"categories":["gid://shopify/Collection/286628937811",
+"gid://shopify/Collection/286629036115",
+"gid://shopify/Collection/286629068883",
+"gid://shopify/Collection/293196398675",
+"gid://shopify/Collection/286633656403",
+"gid://shopify/Collection/286628872275",
+"gid://shopify/Collection/286629101651",
+"gid://shopify/Collection/293196431443",
+"gid://shopify/Collection/286631067731"],
+"fullscreen":false,
+"showQRCode":true,
+"showSearch":true,
+"categoryLayout":"column",
+"showOriginalColor":false,
+"parallaxImageRatio":1.1
+},
+{
+"key":"rftKwhraqloVZ",
+"icon":"assets/icons/tabs/icon-cart2.png",
+"label":"السلة",
+"layout":"cart",
+"fullscreen":true,
+"showOriginalColor":false
+},
+{
+"key":"FKilStwevQ",
+"icon":"assets/icons/tabs/icon-heartthin.png",
+"label":"المفظلة",
+"layout":"wishlist",
+"defaultTab":false,
+"fullscreen":true,
+"showOriginalColor":false
+},
+{
+"key":"CtDIiRCJrL",
+"icon":"assets/icons/tabs/icon-user.png",
+"label":"حسابي",
+"layout":"profile",
+"settings":["biometrics",
+"wishlist",
+"notifications",
+"language",
+"currencies",
+"darkTheme",
+"order",
+"rating",
+"privacy"],
+"styleItem":"flatListTile",
+"background":"https://trello.com/1/cards/6818d78e70e5270c2016d1f2/attachments/681c1d6b6c25844d765b1c07/download/profile.png",
+"defaultTab":false,
+"fullscreen":true,
+"showBackground":true,
+"showOriginalColor":false
+},
+{
+"key":"pbHLKpPEDu",
+"icon":"assets/icons/tabs/icon-user.png",
+"label":"الإعدادات",
+"layout":"profile",
+"visible":false,
+"settings":["biometrics",
+"wishlist",
+"notifications",
+"language",
+"currencies",
+"darkTheme",
+"order",
+"rating",
+"privacy",
+"about"],
+"background":"https://raw.githubusercontent.com/fluxbuilder/images/main/2025/11/d4eb0d49ec3c/1762630550688.png",
+"defaultTab":false,
+"fullscreen":false,
+"showOriginalColor":false,
+"subGeneralSetting":{
+"about":{
+"webUrl":"https://btime.om/pages/whoarewe"}}
+},
+{
+"key":"iZKBNjksIL",
+"layout":"cart",
+"icon":"assets/images/no_coupon.png",
+"label":"كوبون خصم",
+"visible":false,
+"defaultTab":false,
+"fullscreen":false,
+"showOriginalColor":false
+},
+{
+"key":"ENDOhlSxCb",
+"layout":"videos",
+"icon":"assets/icons/tabs/icon-videos.png",
+"label":"فيديو",
+"defaultTab":false,
+"fullscreen":true,
+"showOriginalColor":false,
+"styleVersions":["1"]
+}
 ],
-  "AppBar":{
+"AppBar":{
 "snap":true,
 "items":[
 {
@@ -1362,4 +1352,4 @@
 "emptyWishlistSubtitle02":"المفضلة فارغة حالياً. ابدأ بإضافة منتجاتك المفضلة!",
 "weWillSendYouNotification":"بنرسّلك إشعارات أول ما تنزل عروض جديدة، عشان تكون دايمًا بالصورة وما يفوتك ولا عرض. وتقدر تغيّر الإعدادات بأي وقت يناسبك."
 },
-"Datetime":"2026-05-08T08:29:03.897854"}
+"Datetime":"2026-05-08T08:40:26.671236"}
