@@ -1,38 +1,6 @@
 {
 "HorizonLayout":[
 {
-"isSafeArea":false,
-"showSearch":false,
-"usePrimaryColor":true,
-"enableBackground":false,
-"productType":true,
-"borderInput":false,
-"title":"",
-"type":"rotate",
-"backgroundColor":"FF6B0083",
-"textColor":"FFFCDBC4",
-"alignment":"center",
-"fontWeight":400,
-"fontSize":18.0,
-"textOpacity":1.0,
-"marginLeft":0.0,
-"marginRight":0.0,
-"marginBottom":0.0,
-"marginTop":0.0,
-"paddingLeft":1.0,
-"paddingRight":0.0,
-"paddingTop":0.0,
-"paddingBottom":0.0,
-"height":27.0,
-"intervalTime":5,
-"rotate":["اشترى بـ35 ﷼ توصيل مجاني",
-"توصيل + كوبون مجانًا 🚚🎟️ عند الشراء بـ35﷼"],
-"minWidth":0.0,
-"backgroundGradientColor":[],
-"font":"Cairo",
-"layout":"header_text"
-},
-{
 "layout":"logo",
 "opacity":1,
 "iconSize":24,
@@ -918,7 +886,7 @@
 "lazyLoading":false,
 "isSafeArea":true,
 "color":null,
-"colorCart":"fffcdbc4",
+"colorCart":"ff6b0083",
 "colorIcon":null,
 "colorActiveIcon":null,
 "iconSize":25.0,
@@ -1205,7 +1173,7 @@
 ],
 "AppBar":{
 "showOnScreens":["home"],
-"enable":false,
+"enable":true,
 "snap":false,
 "pinned":false,
 "floating":false,
@@ -1403,4 +1371,4 @@
 "emptyWishlistSubtitle02":"المفضلة فارغة حالياً. ابدأ بإضافة منتجاتك المفضلة!",
 "weWillSendYouNotification":"بنرسّلك إشعارات أول ما تنزل عروض جديدة، عشان تكون دايمًا بالصورة وما يفوتك ولا عرض. وتقدر تغيّر الإعدادات بأي وقت يناسبك."
 },
-"Datetime":"2026-05-10T07:57:32.772375"}
+"Datetime":"2026-05-10T08:07:51.162462"}
