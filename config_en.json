@@ -1058,7 +1058,7 @@
   }, {
     "key": "pbHLKpPEDu",
     "layout": "videos",
-    "icon": "assets/icons/tabs/icon-videos.png",
+    "icon": "z",
     "label": "Watch",
     "visible": true,
     "defaultTab": false,
