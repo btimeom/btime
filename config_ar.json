@@ -1322,7 +1322,7 @@
 "id":"web-trackOrder",
 "icon":"cube_box",
 "title":"تتبع الطلب",
-"webUrl":"https://app.beauttime.com/",
+"webUrl":"https://app.btime.om/",
 "enableClose":false,
 "webViewMode":true,
 "useTabScreen":false,
