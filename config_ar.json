@@ -18,7 +18,7 @@
 "productType":true,
 "showBadgeCart":false,
 "iconSpreadRadius":0,
-"showNotification":false
+"showNotification":true
 },
 {
 "size":1.1,
